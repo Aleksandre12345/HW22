@@ -1,0 +1,311 @@
+@media (width > 768px) {
+    .headerrow {
+        gap: 170px;
+    }
+    .headerimgtablet {
+        width: 236px;
+    }
+    .burgermenu {
+        display: none;
+    }
+    .haedercontact {
+        display: flex;
+        gap: 30px;
+    }
+    .home,.aboutus,.createurplan {
+        color: #83888F;
+        font-family: 'Barlow';
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0.923px;
+        text-transform: uppercase;
+        text-decoration: none;
+        margin-top: 7px;
+    }
+    .mainimg {
+        display: none;
+    }
+    .mainimgtablet {
+        display: block;
+        margin-top: 55px;
+    }
+    .headerh1 {
+        width: 150px;
+        text-align: left;
+        margin-left: -245px;
+    }
+    .headerp {
+        width: 398px;
+        text-align: left;
+    }
+    .headerdiv1 {
+        margin-top: -35px;
+        margin-left: 35px;
+    }
+    .divbox1 {
+        display: flex;
+        flex-direction: row;
+        gap: 65px;
+        margin-top: 150px;
+    }
+    .manmobile {
+        display: none;
+    }
+    .mantablet {
+        display: flex;
+        border-radius: 10px;
+    }
+    h4 {
+        width: 286px;
+        text-align: left;
+        margin-top: 17px;
+    }
+    .box1p {
+        width: 339px;
+        text-align: left;
+    }
+    .divbox2 {
+        width: 688px;
+        height: 488px;
+        margin-top: 350px;
+    }
+    .cupmobile {
+        width: 592px;
+        top: -165px;
+    }
+    h3 {
+        width: 413px;
+        margin-top: 170px;
+        margin-left: 60px;
+    }
+    .box2p {
+        width: 540px;
+        margin-top: 25px;
+    }
+    h2 {
+        width: 255px;
+        text-align: left;
+    }
+    .maps {
+        height: 262px;
+        display: flex;
+        flex-direction: row;
+        gap: 10px;
+    }
+    .maptxth {
+        width: 223px;
+        text-align: left;
+    }
+    .maptxtp {
+        width: 222px;
+        text-align: left;
+    }
+    .uk {
+        margin-left: -180px;
+    }
+    .canada {
+        margin-left: -180px;
+    }
+    .australia {
+        margin-left: -180px;
+    }
+    footer {
+        margin-top: 144px;
+        width: 688px;
+    }
+    .footerimg {
+        width: 250px;
+    }
+    .footerconact {
+        display: flex;
+        flex-direction: row;
+        gap: 35px;
+        margin-left: 25px;
+        margin-top: -15px;
+    }
+    .footericons {
+        margin-top: 80px;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media (width > 1440px) { 
+    .headerrow {
+        gap: 760px;
+    }
+    .headerimgtablet {
+        width: 236px;
+    }
+    .burgermenu {
+        display: none;
+    }
+    .haedercontact {
+        display: flex;
+        gap: 30px;
+    }
+    .home,.aboutus,.createurplan {
+        color: #83888F;
+        font-family: 'Barlow';
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0.923px;
+        text-transform: uppercase;
+        text-decoration: none;
+        margin-top: 7px;
+    }
+    .mainimgdiv {
+        margin-top: 50px;
+    }
+    .mainimgtablet {
+        display: none;
+    }
+    .mainimgdesktop {
+        display: block;
+    }
+    .headerdiv1 {
+        margin-top: -10px;
+        margin-left: 80px;
+    }
+    .headerh1 {
+        width: 188px;
+        color: #FEFCF7;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+    }
+    .headerp {
+        width: 445px;
+        color: #FEFCF7;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+    .divbox1 {
+        gap: 130px;
+    }
+    .mantablet {
+        display: none;
+    }
+    .mandesktop {
+        display: block;
+        border-radius: 10px;
+    }
+    .box1txt {
+        margin-top: 70px;
+    }
+    h4 {
+        width: 375px;
+        color: #333D4B;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+    }
+    .box1p {
+        width: 539px;
+        color: #333D4B;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+    .divbox2 {
+        width: 1280px;
+        height: 474px;
+        display: flex;
+        flex-direction: row;
+    }
+    .cupmobile {
+        display: none;
+    }
+    .cupdesktop {
+        display: block;
+        border-radius: 10px;
+        position: absolute;
+        right: 90px;
+        bottom: 90px;
+    }
+    .agarvici {
+        margin-left: -500px;
+        margin-top: -250px;
+    }
+    h3 {
+        width: 517px;
+        color: #FEFCF7;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        text-align: left;
+        margin-left: 1px;
+    }
+    .box2p {
+        width: 540px;
+        color: #FEFCF7;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        text-align: left;
+    }
+    .divbox3 {
+        margin-top: 150px;
+        margin-left: -50px;
+    }
+    .maps {
+        gap: 100px;
+    }
+    .uk,.canada,.australia {
+        margin-left: -235px;
+    }
+    .maptxth {
+        width: 272px;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px;
+    }
+    .maptxtp {
+        width: 285px;
+        color: #333D4B;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+    footer {
+        width: 1280px;
+        height: 120px;
+        display: flex;
+        flex-direction: row;
+        gap: 100px;
+    }
+    .footerimg {
+        margin-top: 55px;
+    }
+    .footerconact {
+        margin-top: 1px;
+        margin-right: 230px;
+    }
+    .footericons {
+        margin-bottom: 80px;
+    }
+
+}

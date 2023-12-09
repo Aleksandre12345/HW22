@@ -1,0 +1,389 @@
+@media (width > 768px) {
+    .headerrow {
+        gap: 170px;
+    }
+    .headerimgtablet {
+        width: 236px;
+    }
+    .burgermenu {
+        display: none;
+    }
+    .haedercontact {
+        display: flex;
+        gap: 30px;
+    }
+    .home,.aboutus,.createurplan {
+        color: #83888F;
+        font-family: 'Barlow';
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0.923px;
+        text-transform: uppercase;
+        text-decoration: none;
+        margin-top: 7px;
+    }
+    .mainimgdiv {
+        margin-top: 53px;
+    }
+    .mainimg {
+        display: none;
+    }
+    .maingimgtablet {
+        display: block;
+        border-radius: 10px;
+    }
+    .headerdiv1 {
+        margin-top: -30px;
+        margin-left: -20px;
+    }
+    .headerh1 {
+        width: 329px;
+        color: #FEFCF7;
+        font-size: 48px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        text-align: left;
+    }
+    .headerp {
+        width: 400px;
+        color: #FEFCF7;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+        text-align: left;
+        opacity: 0.8;
+        margin-left: 70px;
+    }
+    .headerbtn {
+        margin-left: -110px;
+    }
+    .outlocation {
+        width: 840px;
+    }
+    .minidiv1 {
+        margin-top: -100px;
+        display: flex;
+        flex-direction: column;
+        gap: 50px;
+    }
+    .coffeeandtxt {
+        display: flex;
+        flex-direction: row;
+        gap: 40px;
+    }
+    h5 {
+        margin-top: 40px;
+        text-align: left;
+    }
+    .coffeeptxt {
+        text-align: left;
+    }
+    .divbox2 {
+        width: 688px;
+        height: 573px;
+    }
+    .insideblackbox {
+        margin-left: 35px;
+    }
+    h3 {
+        width: 264px;
+        color: #FEFCF7;
+        text-align: center;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+    }
+    .blackboxptxt1 {
+        width: 540px;
+        color: #FEFCF7;
+        text-align: center;
+        font-size: 15px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 25px;
+    }
+    .greenbox {
+        width: 573px;
+        height: 180px;
+        flex-direction: row;
+    }
+    .coffebean {
+        width: 56px;
+        margin-bottom: 69px;
+        margin-left: 15px;
+    }
+    .gift {
+        width: 56px;
+        margin-bottom: 69px;
+        margin-left: 15px;
+    }
+    .car {
+        width: 56px;
+        margin-bottom: 69px;
+        margin-left: 15px;
+    }
+    h4 {
+        text-align: left;
+        margin-left: 55px;
+    }
+    .blackboxptxt2,.blackboxptxt3,.blackboxptxt4 {
+        width: 367px;
+        text-align: left;
+        margin-left: 55px;
+    }
+    .divbox3 {
+        margin-top: 500px;
+    }
+    .howitworks {
+        width: 255px;
+        text-align: left;
+        margin-left: -420px;
+    }
+    .line {
+        display: flex;
+        margin-left: -210px;
+        margin-top: 30px;
+    }
+    .divnumbers {
+        display: flex;
+        flex-direction: row;
+        margin-top: 40px;
+        gap: 10px;
+    }
+    h2 {
+        width: 90px;
+        text-align: left;
+        margin-left: -130px;
+    }
+    .numbtxt1 {
+        width: 190px;
+        text-align: left;
+        margin-left: -33px;
+    }
+    .numbtxt2 {
+        width: 222px;
+        height: 151px;
+        text-align: left;
+        margin-top: 10px;
+    }
+    .button2 {
+        margin-left: -470px;
+    }
+    footer {
+        width: 688px;
+    }
+    .footerimg {
+        width: 250px;
+    }
+    .footerconact {
+        display: flex;
+        flex-direction: row;
+        gap: 35px;
+        margin-left: 25px;
+        margin-top: -15px;
+    }
+    .footericons {
+        margin-top: 80px;
+    }
+
+}
+
+
+
+
+
+@media (width > 1440px) { 
+    .headerrow {
+        gap: 760px;
+    }
+    .headerimgtablet {
+        width: 236px;
+    }
+    .burgermenu {
+        display: none;
+    }
+    .haedercontact {
+        display: flex;
+        gap: 30px;
+    }
+    .home,.aboutus,.createurplan {
+        color: #83888F;
+        font-family: 'Barlow';
+        font-size: 12px;
+        font-style: normal;
+        font-weight: 700;
+        line-height: 15px;
+        letter-spacing: 0.923px;
+        text-transform: uppercase;
+        text-decoration: none;
+        margin-top: 7px;
+    }
+    .mainimg {
+        display: none;
+    }
+    .maingimgtablet {
+        display: none;
+    }
+    .mainimgdesktop {
+        display: block;
+        border-radius: 10px;
+    }
+    .headerh1 {
+        width: 493px;
+        color: #FEFCF7;
+        font-size: 72px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 72px;
+        margin-left: 110px;
+    }
+    .headerp {
+        width: 445px;
+        color: #FEFCF7;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+    .headerbtn {
+        margin-left: -150px;
+    }
+    .outlocation {
+        width: 1300px;
+    }
+    .minidiv1 {
+        flex-direction: row;
+        gap: 25px;
+    }
+    .coffeeandtxt {
+        display: flex;
+        flex-direction: column;
+    }
+    h5 {
+        width: 255px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .coffeeptxt {
+        width: 245px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        text-align: center;
+    }
+    .divbox2 {
+        width: 1280px;
+        height: 577px;  
+    }
+    h3 {
+        width: 329px;
+        color: #FEFCF7;
+        text-align: center;
+        font-size: 40px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 48px;
+        margin-top: 25px;
+    }
+    .blackboxptxt1 {
+        width: 540px;
+        color: #FEFCF7;
+        text-align: center;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+    }
+    .greenboxesrow {
+        display: flex;
+        flex-direction: row;
+        gap: 30px;
+        margin-left: 25px;
+    }
+    .greenbox {
+        display: flex;
+        flex-direction: column;
+        width: 350px;
+        height: 382px;
+        margin-top: 40px;
+    }
+    .coffebean,.gift,.car {
+        width: 72px;
+        margin-top: 5px;
+    }
+    h4 {
+        width: 255px;
+        color: #FEFCF7;
+        text-align: center;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+        margin-left: 10px;
+        margin-top: -10px;
+    }
+    .blackboxptxt2,.blackboxptxt3,.blackboxptxt4 {
+        width: 255px;
+        color: #FEFCF7;
+        text-align: center;
+        font-size: 16px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 26px;
+        margin-left: 10px;
+    }
+    .divbox3 {
+        margin-left: -400px;
+        margin-top: 400px;
+    }
+    .howitworks {
+        color: #83888F;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 32px;
+        margin-left: -440px;
+    }
+    .line {
+        margin-top: 80px;
+        margin-left: 115px;
+    }
+    .border {
+        width: 360px;
+    }
+    .divnumbers {
+        gap: 170px;
+        margin-left: 310px;
+    }
+    .numbtxt1 {
+        color: #333D4B;
+        font-size: 32px;
+        font-style: normal;
+        font-weight: 900;
+        line-height: 36px
+    }
+    footer {
+        width: 1280px;
+        height: 120px;
+        display: flex;
+        flex-direction: row;
+        gap: 100px;
+    }
+    .footerimg {
+        margin-top: 55px;
+    }
+    .footerconact {
+        margin-top: 1px;
+        margin-right: 230px;
+    }
+    .footericons {
+        margin-bottom: 80px;
+    }
+}
